@@ -1,5 +1,4 @@
 ﻿FROM ubuntu:14.10
-MAINTAINER alateam <ttmk008@gmail.com>
 
 ##################### 常用文件夹准备
 RUN mkdir /workspace /tools /runner /temp /me
