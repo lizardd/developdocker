@@ -1,4 +1,4 @@
-﻿FROM ubuntu:14.10
+﻿FROM ubuntu:14.04.3
 
 ##################### 常用文件夹准备
 RUN mkdir /workspace /tools /runner /temp /me
